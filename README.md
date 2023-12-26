@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Weather App**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to collaborate on [UrbanBitesHub](https://github.com/Community-Programmer/UrbanBitesHub)
 

@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/sarthak-patel23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak-patel23" height="30" width="40" /></a>
 <a href="https://instagram.com/sarthak_patel23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthak_patel23" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucvzb9z06vz4jzgzbfx301-w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucvzb9z06vz4jzgzbfx301-w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@codercommunity6766" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucvzb9z06vz4jzgzbfx301-w" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sarthakpatel2301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sarthakpatel2301" height="30" width="40" /></a>
 </p>
 

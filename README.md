@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **-**
+- 🌱 I’m currently learning **Redux Toolkit**
 
 - 👯 I’m looking to collaborate on [UrbanBitesHub](https://github.com/Community-Programmer/UrbanBitesHub)
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Open Source Projects**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Redis**
 
 - 👯 I’m looking to collaborate on [UrbanBitesHub](https://github.com/Community-Programmer/UrbanBitesHub)
 
